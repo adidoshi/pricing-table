@@ -86,7 +86,7 @@ function App() {
       price: "$49",
       includes: [
         {
-          include: "Single User",
+          include: "Unlimited Users",
           flag: true,
           dark:"bold"
         },
